@@ -7,13 +7,13 @@
     "license": "MIT",
     "authors": [
         {
-          "name": "Sami Araboğlu",
-          "email": "samiaraboglu@gmail.com"
+          "name": "Nick Böcker",
+          "email": "kontakt@nick-hat-boecker.de"
         }
     ],
     "require": {
         "php": ">=5.5",
-        "symfony/framework-bundle": "^3.0|^4.0|^5.0",
+        "symfony/framework-bundle": "^5.0",
         "guzzlehttp/guzzle": "^6.0",
         "php-http/guzzle6-adapter": "^1.0",
         "norkunas/onesignal-php-api": "^1.2"
