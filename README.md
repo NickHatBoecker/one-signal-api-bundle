@@ -5,7 +5,7 @@ Use the OneSignal PHP API [made by Norkunas](https://github.com/norkunas/onesign
 ### Download the Bundle
 
 ```console
-$ composer require samiaraboglu/one-signal-api-bundle
+$ composer require nickhatboecker/one-signal-api-bundle
 ```
 
 ### Enable the Bundle
